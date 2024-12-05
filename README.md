@@ -113,3 +113,16 @@ FLOWCHART:
 ![flowchart ](https://github.com/user-attachments/assets/19163506-2345-482f-8610-5edb02273672)
 
 DIAGRAM CLASS:
+
+![DIAGRAM CLASS](https://github.com/user-attachments/assets/ceed10d6-ae5c-4244-a499-2c599557ee52)
+
+PENJELASAN DIAGRAM CLASS:
+Atribut:
+mahasiswa: Dictionary untuk menyimpan data mahasiswa (nama sebagai key, nilai sebagai value).
+Metode:
+1. _init_(): Menginisialisasi atribut mahasiswa sebagai dictionary kosong.
+2. tambah(nama, nilai): Menambahkan data mahasiswa.
+3. tampilkan(): Menampilkan semua data mahasiswa.
+4. hapus(nama): Menghapus data berdasarkan nama.
+5. ubah(nama, nilai_baru): Memperbarui nilai mahasiswa.
+
